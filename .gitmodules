@@ -1,0 +1,12 @@
+[submodule "commons/SphinxModelProvider"]
+	path = commons/SphinxModelProvider
+	url = https://github.com/sumansaurabh/SphinxModelProvider
+[submodule "enhancement-engines/SpeechToText"]
+	path = enhancement-engines/SpeechToText
+	url = https://github.com/sumansaurabh/SpeechToTextEngine
+[submodule "data/Sphinx-Model"]
+	path = data/Sphinx-Model
+	url = https://github.com/sumansaurabh/Sphinx-Model
+[submodule "ext"]
+	path = ext
+	url = https://github.com/sumansaurabh/Sphinx-OSGi

@@ -57,10 +57,7 @@
   
   <modules>
    
-    <module>Sphinx-Model/acoustic</module>
-
-    <module>Sphinx-Model/language</module>
-    <module>Sphinx-Model/dictionary</module>
+    <module>Sphinx-Model</module>
   </modules>
 
   <profiles>
